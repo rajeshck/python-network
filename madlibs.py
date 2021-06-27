@@ -24,6 +24,6 @@ famous_person = input("Input person : ")
 
 
 madlib = f"Computer programming is so {adj}! It makes me so excited all the time becase \
-I love to {verb1}/ Stay hydrated and {verb2} Like you are {famous_person}!"
+I love to {verb1}. Stay hydrated and {verb2} Like you are {famous_person}!"
 
 print (madlib)
